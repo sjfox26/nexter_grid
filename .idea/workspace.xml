@@ -5,8 +5,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_base.scss" afterPath="$PROJECT_DIR$/sass/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_features.scss" afterPath="$PROJECT_DIR$/sass/_features.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_homes.scss" afterPath="$PROJECT_DIR$/sass/_homes.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_story.scss" afterPath="$PROJECT_DIR$/sass/_story.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_typography.scss" afterPath="$PROJECT_DIR$/sass/_typography.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,48 +21,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="66" column="84" lean-forward="true" selection-start-line="66" selection-start-column="84" selection-end-line="66" selection-end-column="84" />
-              <folding />
+            <state relative-caret-position="344">
+              <caret line="282" column="70" lean-forward="true" selection-start-line="282" selection-start-column="70" selection-end-line="282" selection-end-column="70" />
+              <folding>
+                <element signature="e#3731#3738#0" expanded="true" />
+                <element signature="e#3768#3775#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="text.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/text.txt">
+      <file leaf-file-name="_homes.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_features.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sass/_features.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_typography.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_typography.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sass/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="439">
+              <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -80,14 +53,14 @@
         <option value="$PROJECT_DIR$/sass/_sidebar.scss" />
         <option value="$PROJECT_DIR$/sass/_gallery.scss" />
         <option value="$PROJECT_DIR$/sass/_footer.scss" />
-        <option value="$PROJECT_DIR$/sass/_homes.scss" />
         <option value="$PROJECT_DIR$/sass/_header.scss" />
         <option value="$PROJECT_DIR$/sass/_realtors.scss" />
-        <option value="$PROJECT_DIR$/sass/_story.scss" />
         <option value="$PROJECT_DIR$/sass/_base.scss" />
-        <option value="$PROJECT_DIR$/sass/_typography.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/_features.scss" />
+        <option value="$PROJECT_DIR$/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/sass/_story.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/_homes.scss" />
       </list>
     </option>
   </component>
@@ -101,8 +74,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="66" />
+    <option name="x" value="4" />
+    <option name="y" value="65" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
   </component>
@@ -169,15 +142,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544811218679</updated>
-      <workItem from="1544811222053" duration="7594000" />
+      <workItem from="1544811222053" duration="13752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7594000" />
+    <option name="totallyTimeSpent" value="13752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="66" width="1920" height="977" extended-state="0" />
+    <frame x="4" y="65" width="1920" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -242,14 +215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -266,22 +231,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_story.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
@@ -290,26 +239,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/sass/_features.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="94">
+          <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="54" column="31" lean-forward="true" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_story.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="90" lean-forward="false" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/story-1.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="66" column="84" lean-forward="true" selection-start-line="66" selection-start-column="84" selection-end-line="66" selection-end-column="84" />
-          <folding />
+        <state relative-caret-position="344">
+          <caret line="282" column="70" lean-forward="true" selection-start-line="282" selection-start-column="70" selection-end-line="282" selection-end-column="70" />
+          <folding>
+            <element signature="e#3731#3738#0" expanded="true" />
+            <element signature="e#3768#3775#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_features.scss">
+    <entry file="file://$PROJECT_DIR$/sass/_homes.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        <state relative-caret-position="439">
+          <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
           <folding />
         </state>
       </provider>
